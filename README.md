@@ -1,5 +1,9 @@
 # Raspberry Pi Waveshare PoE HAT (B) install script
 
+Original: https://gist.github.com/CharlesGodwin/adda3532c070f6f6c735927a5d6e8555
+
+Waveshare documentation: https://www.waveshare.com/wiki/PoE_HAT_(B)#Set_the_Fan_Startup_Temperature
+
 This script has been tested on **Raspberry Pi OS**, Buster (Legacy) and Bullseye only.
 
 Fan control works with FAN switch in P0 position.
